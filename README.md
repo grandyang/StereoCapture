@@ -6,9 +6,11 @@ This software is designed for stereo-pair images or videos capture, which works 
 
 [**QtStereoCapturePGR**]: Work for Point Grey Research (PGR) cameras (Need to install PGR FlyCapture SDK https://www.ptgrey.com/flycapture-sdk), all USB cameras, IEEE-1394b (FireWire) Cameras.
 
+**Watch the Demo at: https://my.vanderbilt.edu/xiaochen/archives/75
 
 Overview:
 ![alt text](https://my.vanderbilt.edu/xiaochen/files/2015/09/overview_qsc.jpg "Title")
+
 
 
 
