@@ -6,11 +6,14 @@ This software is designed for stereo-pair images or videos capture, which works 
 
 [**QtStereoCapturePGR**]: Work for Point Grey Research (PGR) cameras (Need to install PGR FlyCapture SDK https://www.ptgrey.com/flycapture-sdk), all USB cameras, IEEE-1394b (FireWire) Cameras.
 
-**Watch the Demo at:** https://my.vanderbilt.edu/xiaochen/archives/75
+**Watch the Demo:** https://my.vanderbilt.edu/xiaochen/archives/75
 
 Overview:
 ![alt text](https://my.vanderbilt.edu/xiaochen/files/2015/09/overview_qsc.jpg "Title")
 
+If you find this tool useful in your research, please cite the following paper:
+
+Yang, X., Clements, L. W., Conley, R. H., Thompson, R. C., Dawant, B. M., & Miga, M. I. (2016, March). A novel craniotomy simulation system for evaluation of stereo-pair reconstruction fidelity and tracking. In SPIE Medical Imaging (pp. 978612-978612). International Society for Optics and Photonics.
 
 
 
