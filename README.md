@@ -13,7 +13,7 @@ Overview:
 
 If you find this tool useful in your research, please cite the following paper:
 
-Yang, X., Clements, L. W., Conley, R. H., Thompson, R. C., Dawant, B. M., & Miga, M. I. (2016, March). A novel craniotomy simulation system for evaluation of stereo-pair reconstruction fidelity and tracking. In SPIE Medical Imaging (pp. 978612-978612). International Society for Optics and Photonics.
+**Yang, X., Clements, L. W., Conley, R. H., Thompson, R. C., Dawant, B. M., & Miga, M. I. (2016, March). A novel craniotomy simulation system for evaluation of stereo-pair reconstruction fidelity and tracking. In SPIE Medical Imaging (pp. 978612-978612). International Society for Optics and Photonics.**
 
 
 
