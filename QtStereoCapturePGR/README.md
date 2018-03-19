@@ -6,7 +6,6 @@ This software is designed for stereo-pair images or videos capture, which works 
 
 
 Need to install PGR FlyCapture SDK https://www.ptgrey.com/flycapture-sdk     
-
 (**If downloded version not working, please try the one I provided here FlyCapture2.6.3.4_x86.exe**)
 
 
